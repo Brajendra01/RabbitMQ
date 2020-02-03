@@ -1,0 +1,1 @@
+2019-12-23 17:50:41.638 DEBUG 9528 --- [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] c.r.R.controller.RabbitMQController      : 11111111111 AAOPJ5286F status: INVALID
